@@ -1,12 +1,12 @@
-# Power BI Sales Dashboard – Motorola Mobile Analysis
+### Power BI Sales Dashboard – Motorola Mobile Analysis
 
 This project presents an interactive **Power BI dashboard** designed to analyze sales performance, customer behavior, and transaction insights for Motorola mobile products across different regions.
 
-# Overview
+### Overview
 
 The dashboard provides a comprehensive view of key business metrics, enabling data-driven decision-making through intuitive visualizations and real-time insights.
 
-# Key Features:
+### Key Features:
 
 * Sales Performance Metrics
 
@@ -48,7 +48,7 @@ The dashboard provides a comprehensive view of key business metrics, enabling da
 
   * Month-wise filtering (January–December) for dynamic data exploration
 
-# Purpose:
+### Purpose:
 
 This dashboard is built to:
 
@@ -57,7 +57,7 @@ This dashboard is built to:
 * Understand customer preferences
 * Support strategic business decisions
 
-# Tools Used:
+### Tools Used:
 
 * Power BI
 * Data Visualization Techniques
